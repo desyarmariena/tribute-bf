@@ -1,3 +1,10 @@
 html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
+body {
+    padding: 60px;
+}
+.row, footer {
+    background-color: grey;
+    margin: 0.5%;    
+}
