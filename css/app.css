@@ -8,8 +8,15 @@ body {
 }
 
 .row, footer {
-    margin: 0.5%;    
+    margin: 2%;        
 }
 .background, .jumbotron {
     background-color: #f0eac6;
+}
+.jumbotron img {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+h2 {
+    text-align: center;
 }
