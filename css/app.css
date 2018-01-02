@@ -3,8 +3,13 @@ html {
 }
 body {
     padding: 60px;
+    background-color: #b0a785;
+    color: darkslategray;
 }
+
 .row, footer {
-    background-color: grey;
     margin: 0.5%;    
+}
+.background, .jumbotron {
+    background-color: #f0eac6;
 }
